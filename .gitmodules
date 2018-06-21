@@ -1,3 +1,3 @@
-[submodule "analytics"]
-	path = analytics
+[submodule "repos"]
+	path = repos
 	url = git@github.com:yusuken-freee/test_submodule_child.git
