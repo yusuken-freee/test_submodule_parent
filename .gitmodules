@@ -1,0 +1,3 @@
+[submodule "analytics"]
+	path = analytics
+	url = git@github.com:yusuken-freee/test_submodule_child.git
